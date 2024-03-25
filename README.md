@@ -8,6 +8,12 @@
 | Validation | **Precision**              | **79.6%**            |
 | Validation | **Recall**                 | **73.4%**            |
 
+## Test out the model!
+
+[![Try the Fire Detection Model Now!](results/data/roboflow.png)](https://universe.roboflow.com/vision-zz6rk/fire_detector-g4lir/model/7)
+
+Click on the image above or visit [Roboflow](https://universe.roboflow.com/vision-zz6rk/fire_detector-g4lir/model/7) to test the fire detection model in your browser.
+
 ## Introduction
 
 This repository hosts a collection of YOLO (You Only Look Once) models trained specifically for the purpose of fire detection. With the increasing risks of wildfires and urban fires, timely and accurate detection is crucial for early response and mitigation. Leveraging the speed and efficiency of YOLO models, our project aims to provide a robust solution for identifying fire instances in real-time video feeds and images.
