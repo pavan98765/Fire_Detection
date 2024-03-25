@@ -1,5 +1,13 @@
 # Realtime Fire Detection Using YOLO Models
 
+## Table of Achieved Evaluation Metrics
+
+| Dataset    | Metric                     | Value                |
+| ---------- | -------------------------- | -------------------- |
+| Validation | **Mean Average Precision** | **77.8%** @ 0.5(IoU) |
+| Validation | **Precision**              | **79.6%**            |
+| Validation | **Recall**                 | **73.4%**            |
+
 ## Introduction
 
 This repository hosts a collection of YOLO (You Only Look Once) models trained specifically for the purpose of fire detection. With the increasing risks of wildfires and urban fires, timely and accurate detection is crucial for early response and mitigation. Leveraging the speed and efficiency of YOLO models, our project aims to provide a robust solution for identifying fire instances in real-time video feeds and images.

@@ -3,11 +3,11 @@ val: ../valid/images
 test: ../test/images
 
 nc: 2
-names: ['0', 'fogo-ypXI']
+names: ['-', 'fire - v1 2024-01-12 8-02pm']
 
 roboflow:
-  workspace: ai-identificador-de-chama
-  project: fire-iso9f
-  version: 1
+  workspace: vision-zz6rk
+  project: fire_detector-g4lir
+  version: 7
   license: CC BY 4.0
-  url: https://universe.roboflow.com/ai-identificador-de-chama/fire-iso9f/dataset/1
+  url: https://universe.roboflow.com/vision-zz6rk/fire_detector-g4lir/dataset/7
