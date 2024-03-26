@@ -1,5 +1,9 @@
 # Realtime Fire Detection Using YOLO Models
 
+## Introduction
+
+This repository hosts a collection of YOLO (You Only Look Once) models trained specifically for the purpose of fire detection. With the increasing risks of wildfires and urban fires, timely and accurate detection is crucial for early response and mitigation. Leveraging the speed and efficiency of YOLO models, our project aims to provide a robust solution for identifying fire instances in real-time video feeds and images.
+
 ## Table of Achieved Evaluation Metrics
 
 | Dataset    | Metric                     | Value                |
@@ -18,6 +22,8 @@ We have trained 7 different models on different datasets variations(versions), a
 
 ## Results
 
+Here are some of the results from our models:
+
 ![img](results/WhatsApp-Video-2024-01-12-at-18_01_23_mp4-178_jpg.rf.ff61dada9f2456f133e3713a84ddafe4.jpg)
 
 ![img](results/Img_1871_jpg.rf.df44efd28f4554e0336d85ed0b128c58.jpg)
@@ -27,10 +33,6 @@ We have trained 7 different models on different datasets variations(versions), a
 ![img](results/new_fire_fire-538_png_jpg.rf.a0a8afd83ed3d773494b3da41d6e390b.jpg)
 
 ![img](results/WEBFire1221_jpg.rf.9b9e98e6c9efb8c16d6e3d5947e93405.jpg)
-
-## Introduction
-
-This repository hosts a collection of YOLO (You Only Look Once) models trained specifically for the purpose of fire detection. With the increasing risks of wildfires and urban fires, timely and accurate detection is crucial for early response and mitigation. Leveraging the speed and efficiency of YOLO models, our project aims to provide a robust solution for identifying fire instances in real-time video feeds and images.
 
 ## Why YOLO for Fire Detection?
 
@@ -70,7 +72,9 @@ To install the necessary packages, run the following command in your Python envi
 
 ## Getting Started
 
-Quick start for training and testing.[![Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/drive/1LivJRxLtOFb4fsJ7NAvJtoAVaEuVw8dM?usp=sharing)
+Quick start for training and testing:
+
+[![Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/drive/1LivJRxLtOFb4fsJ7NAvJtoAVaEuVw8dM?usp=sharing)
 
 To get started with testing the fire detection models, follow the steps below:
 
