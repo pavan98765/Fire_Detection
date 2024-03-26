@@ -14,6 +14,8 @@
 
 Click on the image above or visit [Roboflow](https://universe.roboflow.com/vision-zz6rk/fire_detector-g4lir/model/7) to test the fire detection model in your browser.
 
+We have trained 7 different models on different datasets variations(versions), and finally deployed them on roboflow.Visit [Roboflow](https://universe.roboflow.com/vision-zz6rk/fire_detector-g4lir/dataset/7), to view different versions of the dataset and download them!
+
 ## Results
 
 ![img](results/WhatsApp-Video-2024-01-12-at-18_01_23_mp4-178_jpg.rf.ff61dada9f2456f133e3713a84ddafe4.jpg)
