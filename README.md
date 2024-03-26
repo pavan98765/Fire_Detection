@@ -78,4 +78,6 @@ To get started with deploying the fire detection models, follow the steps below:
 git clone https://github.com/pavan98765/Fire_Detection.git
 ```
 
-2.
+2. Open [Testing_and_evaluation.ipynb](Code/Testing_and_evaluation.ipynb) notebook to test the model on images, visulaize them and to realtime predictions through webcam!
+
+3. Please open the [training_notebook.ipynb](Code/Training.py) to download the dataset from roboflow and start training the Model. You can choose different sizes(variations) of the model like nano,small, medium, large and xl. After the training is done you can evaluate and predict with the model.
