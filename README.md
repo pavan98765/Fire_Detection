@@ -1,4 +1,4 @@
-# Realtime Fire Detection Using YOLO Models
+# Realtime Fire Detection using Deep Learning
 
 ## Introduction
 
@@ -69,7 +69,7 @@ Setting up the Fire Detection project is straightforward and primarily requires 
 To install the necessary packages, run the following command in your Python environment:
 
 ```bash
-!pip install torch ultralytics==8.0.196
+pip install torch ultralytics==8.0.196
 ```
 
 ## Getting Started
