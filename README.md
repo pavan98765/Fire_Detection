@@ -12,19 +12,11 @@ This repository hosts a collection of YOLO (You Only Look Once) models trained s
 | Validation | **Precision**              | **79.6%**            |
 | Validation | **Recall**                 | **73.4%**            |
 
-## Test the model now!
-
-<a href="https://universe.roboflow.com/vision-zz6rk/fire_detector-g4lir/model/7">
-    <img src="results/data/roboflow.png" alt="Try the Fire Detection Model Now!" width="200" />
-</a>
-
-Click on the image above or visit [Roboflow](https://universe.roboflow.com/vision-zz6rk/fire_detector-g4lir/model/7) to test the fire detection model in your browser.
-
-We have trained 7 different models on different datasets variations(versions), and finally deployed them on roboflow.Visit [Roboflow](https://universe.roboflow.com/vision-zz6rk/fire_detector-g4lir/dataset/7), to view different versions of the dataset and download them!
-
 ## Results
 
 Here are some of the results from our models:
+
+![img](results/fire_detection.gif)
 
 ![img](results/WhatsApp-Video-2024-01-12-at-18_01_23_mp4-178_jpg.rf.ff61dada9f2456f133e3713a84ddafe4.jpg)
 
@@ -35,6 +27,16 @@ Here are some of the results from our models:
 ![img](results/new_fire_fire-538_png_jpg.rf.a0a8afd83ed3d773494b3da41d6e390b.jpg)
 
 ![img](results/WEBFire1221_jpg.rf.9b9e98e6c9efb8c16d6e3d5947e93405.jpg)
+
+## Test the model now!
+
+<a href="https://universe.roboflow.com/vision-zz6rk/fire_detector-g4lir/model/7">
+    <img src="results/data/roboflow.png" alt="Try the Fire Detection Model Now!" width="200" />
+</a>
+
+Click on the image above or visit [Roboflow](https://universe.roboflow.com/vision-zz6rk/fire_detector-g4lir/model/7) to test the fire detection model in your browser.
+
+We have trained 7 different models on different datasets variations(versions), and finally deployed them on roboflow.Visit [Roboflow](https://universe.roboflow.com/vision-zz6rk/fire_detector-g4lir/dataset/7), to view different versions of the dataset and download them!
 
 ## Why YOLO for Fire Detection?
 
