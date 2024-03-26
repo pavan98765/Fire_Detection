@@ -70,7 +70,9 @@ To install the necessary packages, run the following command in your Python envi
 
 ## Getting Started
 
-To get started with deploying the fire detection models, follow the steps below:
+Quick start for training and testing.[![Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/drive/1LivJRxLtOFb4fsJ7NAvJtoAVaEuVw8dM?usp=sharing)
+
+To get started with testing the fire detection models, follow the steps below:
 
 1. **Clone the Repository:**
 
