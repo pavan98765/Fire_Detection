@@ -6,11 +6,11 @@ This repository hosts a collection of YOLO (You Only Look Once) models trained s
 
 ## Table of Achieved Evaluation Metrics
 
-| Dataset    | Metric                     | Value                |
-| ---------- | -------------------------- | -------------------- |
-| Validation | **Mean Average Precision** | **77.8%** @ 0.5(IoU) |
-| Validation | **Precision**              | **79.6%**            |
-| Validation | **Recall**                 | **73.4%**            |
+**| Dataset | Metric | Value |**
+**| ---------- | -------------------------- | -------------------- |**
+**| Validation | Mean Average Precision | 77.8% @ 0.5(IoU) |**
+**| Validation | Precision | 79.6% |**
+**| Validation | Recall | 73.4% |**
 
 ## Results
 
