@@ -12,9 +12,11 @@ This repository hosts a collection of YOLO (You Only Look Once) models trained s
 | Validation | **Precision**              | **79.6%**            |
 | Validation | **Recall**                 | **73.4%**            |
 
-## Test out the model!
+## Test the model now!
 
-[![Try the Fire Detection Model Now!](results/data/roboflow.png)](https://universe.roboflow.com/vision-zz6rk/fire_detector-g4lir/model/7)
+<a href="https://universe.roboflow.com/vision-zz6rk/fire_detector-g4lir/model/7">
+    <img src="results/data/roboflow.png" alt="Try the Fire Detection Model Now!" width="200" />
+</a>
 
 Click on the image above or visit [Roboflow](https://universe.roboflow.com/vision-zz6rk/fire_detector-g4lir/model/7) to test the fire detection model in your browser.
 
@@ -87,3 +89,9 @@ git clone https://github.com/pavan98765/Fire_Detection.git
 2. Open [Testing_and_evaluation.ipynb](Code/Testing_and_evaluation.ipynb) notebook to test the model on images, visulaize them and to realtime predictions through webcam!
 
 3. Please open the [training_notebook.ipynb](Code/Training.py) to download the dataset from roboflow and start training the Model. You can choose different sizes(variations) of the model like nano,small, medium, large and xl. After the training is done you can evaluate and predict with the model.
+
+## Contributing
+
+We welcome contributions to the Fire Detection project! Whether it's through improving the model's accuracy,or expanding the dataset, your help is invaluable. If you encounter any problems or have suggestions, please feel free to open an issue or submit a pull request.
+
+Thank you for your interest in our Fire Detection project. Together, we can make a significant impact on safety and emergency response times across the globe.
